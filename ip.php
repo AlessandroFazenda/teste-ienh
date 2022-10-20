@@ -1,0 +1,1 @@
+<html><body><h1>Meu IP: <?php echo getHostByName(getHostName()); ?></h1></body></html>
